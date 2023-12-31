@@ -29,18 +29,6 @@
 
 ### 💻 Herramientas
 
-<p align="left">
-  <a href="#">
-    <img src="svg/dev/tools/android_studio.svg" alt="android_studio" style="vertical-align:top; margin:6px 4px">
-  </a> 
-  <a href="#">
-    <img src="svg/dev/tools/android_studio_colour.svg" alt="android_studio_colour" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/tools/bash.svg" alt="bash" style="vertical-align:top; margin:6px 4px">
-  </a> 
-
-  <a href="#">
-    <img src="svg/dev/tools/docker.svg" alt="docker" style="vertical-align:top; margin:6px 4px">
-  </a> 
+<p>
+    <a href="#"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
