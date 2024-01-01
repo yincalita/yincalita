@@ -21,8 +21,6 @@
 <p>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg"
 <p>
-    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/python.svg"
-<p>
     
 ### 🗄️ Base de Datos
 
