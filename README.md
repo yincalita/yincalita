@@ -20,6 +20,8 @@
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/java.svg"
 <p>
     <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/languages/js.svg"
+<p> 
+    <img src="https://github.com/NixCD/NixCD/blob/main/lua.svg"
 <p>
     
 ### 🗄️ Base de Datos
